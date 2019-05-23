@@ -4,6 +4,7 @@
   "description": "Git is a distributed version control system.",
   "main": "index.js",
   "dependencies": {
+    "boom": "^2.10.1",
     "react": "^16.8.6"
   },
   "devDependencies": {},
